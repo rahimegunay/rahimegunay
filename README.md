@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahime Gunay Ceylan</h1>
-<h3 align="center">A passionate DevOps and Cloud Engineer</h3>
+<h3 align="center">A passionate DevOps/Cloud Engineer</h3>
 
 - 🔭 I’m currently working on **Cloud Challange creating S3 and Cloudfront on AWS**
 
