@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, Grafana**
 
-- 👨‍💻 All of my projects are available at [https://rahimegunay.github.io](rahimegunay.github.io)
+- 👨‍💻 All of my projects are available at [https://rahimegunay.github.io/](rahimegunay.github.io)
 
 - 💬 Ask me about **VPC, RDS, DynamoDB, EC2, ASG, ELB on AWS**
 
