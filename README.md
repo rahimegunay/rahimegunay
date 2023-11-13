@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **VPC, RDS, DynamoDB, EC2, ASG, ELB on AWS**
 
-- 📫 How to reach me **http://linkedin/rahimegunay*
+- 📫 How to reach me **[http://linkedin/rahimegunay](https://www.linkedin.com/in/rahimegunay/)*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
