@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **VPC, RDS, DynamoDB, EC2, ASG, ELB on AWS**
 
-- 📫 How to reach me **gunayrahime@gmail.com**
+- 📫 How to reach me **http://linkedin/rahimegunay*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
